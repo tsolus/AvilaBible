@@ -13,3 +13,6 @@ https://colab.research.google.com/drive/13uqwPj8YmpNQnC6ZU85ZTC6pngmSU5iT?usp=sh
 or
 
 https://nbviewer.org/github/tsolus/AvilaBible/blob/main/Project_Vendroux_Solus.ipynb 
+
+
+Thanks to this project, we learned the basics for creating an API and we developped our skills in Machine Learning and Dara Visualization.
