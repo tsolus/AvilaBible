@@ -15,4 +15,4 @@ or
 https://nbviewer.org/github/tsolus/AvilaBible/blob/main/Project_Vendroux_Solus.ipynb 
 
 
-Thanks to this project, we learned the basics for creating an API and we developped our skills in Machine Learning and Dara Visualization.
+Thanks to this project, we learned the basics for creating an API and we developped our skills in Machine Learning using sklearn and Data Visualization (Bokeh, plotly express, Matplotlib).
